@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Sales Forecasting and Inventory optimization**
 
+- 🔭 you can find the Resume here ([https://medium.com/@karthikcom737](https://emerald-maribeth-77.tiiny.site/))
+
 - 🌱 I’m currently learning **Flask, Django, GenAI, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://karthikcom737.wixsite.com/karthik](https://karthikcom737.wixsite.com/karthik)
