@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthik T</h1>
-<h3 align="center">AI & ML Engineer | Undergraduate Student at MITS, India Passionate about Artificial Intelligence</h3>
+<h1 align="center">Hi 👋, I'm Tavatari Karthik</h1>
+<h3 align="center">passionate in Machine Learning,Deep Learning and Webdevelopment </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkarthik123&label=Profile%20views&color=0e75b6&style=flat" alt="tkarthik123" /> </p>
 
