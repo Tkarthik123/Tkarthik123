@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flask, Django, GenAI, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://karthikcom737.wixsite.com/karthik](https://karthikcom737.wixsite.com/karthik)
+- 👨‍💻 All of my projects are available at [https://karthikcom737.wixsite.com/karthik](https://karthiktavatari.wixsite.com/chinna)
 
 - 📝 I regularly write articles on [https://medium.com/@karthikcom737](https://medium.com/@karthikcom737)
 
